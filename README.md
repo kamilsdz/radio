@@ -6,3 +6,5 @@ To avoid awkward moments for your guests - run it up on raspberry PI and integra
 
 ![](miro.png "How it works?")
 
+To run app:
+`./exe`
